@@ -8,6 +8,5 @@
     {{{ URL::to("user/confirm/{$user->confirmation_code}") }}}
 </a>
 
-
 <p>{{ Lang::get('confide::confide.email.account_confirmation.farewell') }}</p>
 <p>Centro de Estudos da Consciência</p>
