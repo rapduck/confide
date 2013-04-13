@@ -43,17 +43,17 @@ return array(
 
     'email' => array(
         'account_confirmation' => array(
-            'subject' => 'Confirmação de conta',
+            'subject' => 'Seus dados para acessar o curso',
             'greetings' => 'Olá :name',
-            'body' => 'Por favor, acesse o link abaixo para confirmar a sua conta',
-            'farewell' => 'Att',
+            'body' => 'Por favor, acesse o link abaixo para acessar e confirmar a sua conta',
+            'farewell' => 'Atenciosamente,',
         ),
 
         'password_reset' => array(
             'subject' => 'Troca de senha',
             'greetings' => 'Olá :name',
             'body' => 'Acesse o link a seguir para trocar a sua senha',
-            'farewell' => 'Att',
+            'farewell' => 'Atenciosamente',
         ),
     ),
 
